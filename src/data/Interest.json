@@ -1,0 +1,22 @@
+{
+  "Interests": [
+    {
+      "id": 1,
+      "color": "#FFEDE6",
+      "title": "Blockchain product",
+      "desc": "Create something novel that has never been done on the blockchain before Build a product"
+    },
+    {
+      "id": 2,
+      "color": "#FFE1E9",
+      "title": "Quality product",
+      "desc": "Create something novel that has never been done on the blockchain before Build a product"
+    },
+    {
+      "id": 3,
+      "color": "#DBF9ED",
+      "title": "Viable product",
+      "desc": "Create something novel that has never been done on the blockchain before Build a product"
+    }
+  ]
+}
